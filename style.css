@@ -1,0 +1,197 @@
+body{
+    margin: 0 0 0 0;
+    padding: 0;
+    height: 100vh;
+    width: 100%;
+    background-color:#F3EAD3;
+}
+
+p{
+    font-family: Roboto;
+}
+.sec-1{
+    background-color: #8BC34A;
+    height: 84%;
+    width: 20%;
+    position: fixed;
+    top: 10%;
+    left:4%;
+    border-radius:20px;
+    transition:top 0.5s,left 0.5s,box-shadow 0.5s;
+}
+
+
+
+.pfp-div{
+    position: absolute;
+    top: 12%;
+    left:27.5%;
+}
+
+.pfp-edit{
+    height: 60% ;
+    width: 60% ;
+    border-radius: 10px;
+}
+
+
+
+.name-div{
+    position: absolute;
+    height: 6%;
+    top: 40%;
+    right: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.name-edit{
+    color: aliceblue;
+    word-spacing:4px;
+    letter-spacing: 1px;
+}
+
+.profession-div{
+    position: absolute;
+    top: 50%;
+    left: 35%;
+    background-color: rgba(0, 0, 0, 0.8);
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 6%;
+    width: 30%;
+}
+
+.profession-edit{
+    color: aliceblue;
+}
+
+
+
+.sec-1:hover{
+    top: 8%;
+    left: 4.5%;
+    box-shadow: -10px  6px 6px  0 rgba(0, 0, 0, 0.6);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.sec-2{
+    background-color: #8BC34A;
+    height: 84%;
+    width: 65%;
+    position: fixed;
+    top: 10%;
+    left:30%;
+    border-radius:20px;
+}
+
+.about-me-div{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 18%;
+    width:35%;
+}
+
+.about-me-txt{
+    font-size: 200%;
+    margin-left: 10%;
+    color: #353935;
+    font-weight: 600;
+
+}
+
+.navigation-bar{
+    height: 18%;
+    width: 65%;
+    background-color: #87CEEB;
+    position: absolute;
+    left: 35%;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.sec-2:hover{
+    top: 8%;
+    left: 30.5%;
+    box-shadow: -10px  6px 6px  0 rgba(0, 0, 0, 0.6);
+    transition:top 0.5s,left 0.5s,box-shadow 0.5s;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* https://uiverse.io/elijahgummer/bright-chicken-11 */
