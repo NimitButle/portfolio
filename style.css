@@ -14,6 +14,8 @@ a{
     color: white;
 }
 
+
+    
 .sec-1{
     background-color: #8BC34A;
     height: 84%;
@@ -239,4 +241,11 @@ a{
     left: 30.5%;
     box-shadow: -10px  10px 6px   rgba(0, 0, 0, 0.6);
     
+}
+
+@media(max-width:400px){
+    .all{
+        display: grid;
+        grid-template-columns: 1fr;
+    }
 }
