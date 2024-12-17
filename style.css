@@ -216,7 +216,17 @@ a{
 
 
 
-
+.intro-para{
+    font-size: 150%;
+    font-weight:400;
+    padding:5%;
+    color: #F3EAD3;
+    position: absolute;
+    top: 15%;
+    word-spacing: 10px;
+    letter-spacing: 1px;
+    word-wrap: break-word;
+}
 
 
 
@@ -230,51 +240,3 @@ a{
     box-shadow: -10px  10px 6px   rgba(0, 0, 0, 0.6);
     
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* https://uiverse.io/elijahgummer/bright-chicken-11 */
